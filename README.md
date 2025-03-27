@@ -1,4 +1,4 @@
-# Datascience Pathfinder Application 🚀
+# Datascience Pathfinder Application 🚀 - Team 08
 ## Empowering Career Decisions in Data Science
 
 ### 📝 Project Description
