@@ -1,4 +1,4 @@
-# Employability Analytics Application 🚀
+# Datascience Pathfinder Application 🚀
 ## Empowering Career Decisions in Data Science
 
 ### 📝 Project Description
